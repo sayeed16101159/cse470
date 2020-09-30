@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+
+	<user type="admin">
+		<uname>faisal</uname>
+		<pass>12345678</pass>
+		<email>faisal@yahoo.com</email>
+	</user>
+
+</data>

@@ -1,0 +1,77 @@
+.search
+{
+  height: 50px;
+  width: 50%;
+}
+
+.manu ul li
+{
+  background-color: #0086b3;
+  height: 35px;
+  width:200px;
+
+  text-align: center;
+  line-height: 35px;
+  float: left;
+
+  border-radius: 5px;
+
+
+}
+.manu ul li a{
+  text-decoration: none;
+  color: white;
+  display: block;
+
+}
+
+.manu ul
+{
+  list-style: none;
+}
+.manu ul ul
+{
+  position: absolute;
+  display: none;
+  margin-left: -40px;
+}
+.manu ul li:hover >ul
+{
+  display: block;
+
+}
+.manu ul li a:hover
+{
+  background-color: #004d66;
+  border-radius: 5px;
+
+}
+
+.blank
+{
+  height: 35px;
+  width: 100%;
+  background-color: #0086b3;
+}
+.space
+{
+  float: right;
+}
+.filter
+{
+  height: 500px;
+  width: 15%;
+  overflow: hidden;
+  float: left;
+}
+
+.mainContain
+{
+  height: 1110px;
+  width :50%;
+  margin: auto;
+  background-color: #f2f2f2;
+  overflow: hidden;
+  float: left;
+
+}
